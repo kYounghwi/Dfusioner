@@ -9,6 +9,5 @@ The repo is the official implementation for the paper: [DUAL-DIMENSIONAL DEPENDE
 
 # Main Results
 
-**long-term forecasting**
 ![Image](https://github.com/user-attachments/assets/7c21015c-9e42-47b7-a20f-5592d9c4d20c)
 ![Image](https://github.com/user-attachments/assets/6d8b2856-48f6-41ad-956f-20d7114db0a9)
