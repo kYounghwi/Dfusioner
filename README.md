@@ -1,4 +1,4 @@
-# Dfusioner
+# Dfusioner - Pytorch Implementation
 The repo is the official implementation for the paper: [DUAL-DIMENSIONAL DEPENDENCY FUSION TRANSFORMER FOR LONG-TERM SPATIOTEMPORAL FLOW PREDICTION]()
 
 # Architecture
